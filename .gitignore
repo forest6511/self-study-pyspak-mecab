@@ -1,0 +1,4 @@
+*.log
+metastore_db
+.idea
+Japanese-book.txt
